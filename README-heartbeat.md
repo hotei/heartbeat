@@ -116,6 +116,4 @@ The 'heartbeat' go package/program is distributed under the Simplified BSD Licen
 Documentation (c) 2015 David Rook 
 
 // EOF README-heartbeat.md  (markdown tested with blackfriday)
-=============
--------
 
